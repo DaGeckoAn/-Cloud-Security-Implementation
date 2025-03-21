@@ -24,3 +24,4 @@ DESCRIPTION: **TASK 4**: Cloud-Security-Implementation
 
 5️. Compliance & Governance – Follow industry security standards (ISO 27001, GDPR, HIPAA), conduct regular security audits, and adopt zero-trust security models.
 
+[INTERNSHIP  TASK -4  CLOUD SECURITY  IMPLEMENTATION.docx](https://github.com/user-attachments/files/19388495/INTERNSHIP.TASK.-4.CLOUD.SECURITY.IMPLEMENTATION.docx)
